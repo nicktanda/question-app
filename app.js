@@ -7,8 +7,6 @@
     let started = false;
 
     const questionText = document.getElementById('question-text');
-    const currentEl = document.getElementById('current');
-    const totalEl = document.getElementById('total');
     const app = document.getElementById('app');
 
     // Use crypto API for better randomness
@@ -45,7 +43,6 @@
                 throw new Error('No questions found');
             }
 
-            totalEl.textContent = questions.length;
             document.body.classList.remove('loading');
 
         } catch (error) {
@@ -73,10 +70,7 @@
             }
         }
 
-        // Update display
-        currentEl.textContent = currentIndex + 1;
-
-        // Trigger animation by removing and re-adding element
+        // Trigger animation
         questionText.style.animation = 'none';
         questionText.offsetHeight; // Force reflow
         questionText.style.animation = '';
