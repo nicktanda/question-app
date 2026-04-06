@@ -1,6 +1,7 @@
 # Fourth date questions - 500+ deep questions
 # Sources: Gottman Institute, Berkeley 36 Questions, TODAY, Classpop, Good Trade, and more
 
+
 # Relationship & Love
 - category: Relationship & Love
   question: "What does a healthy relationship provide for the people in it?"
@@ -491,21 +492,13 @@
 - category: Past & Experiences
   question: "What childhood memory has shaped who you are today?"
 - category: Past & Experiences
-  question: "What's a moment in your life you'd relive if you could?"
-- category: Past & Experiences
   question: "What's a memory that always brings tears to your eyes?"
 - category: Past & Experiences
   question: "What's a memory that still feels raw, even after time has passed?"
 - category: Past & Experiences
-  question: "What's the most adventurous thing you've ever done?"
-- category: Past & Experiences
   question: "What's a place you've visited that changed your perspective?"
 - category: Past & Experiences
   question: "What's an experience that made you believe in the beauty of life?"
-- category: Past & Experiences
-  question: "What's the most spontaneous thing you've ever done?"
-- category: Past & Experiences
-  question: "What's the most beautiful thing you've ever experienced?"
 - category: Past & Experiences
   question: "What's an experience you've had that words can't fully capture?"
 - category: Past & Experiences
@@ -725,8 +718,6 @@
 - category: Fun & Hypothetical
   question: "If you had one year left to live, how would you spend it?"
 - category: Fun & Hypothetical
-  question: "If you could relive one year of your life, which would it be?"
-- category: Fun & Hypothetical
   question: "If you could witness any historical event, what would it be?"
 - category: Fun & Hypothetical
   question: "If you could ask your future self one question, what would it be?"
@@ -774,8 +765,6 @@
   question: "If you could create your own holiday, what would it celebrate?"
 - category: Fun & Hypothetical
   question: "If you could live forever, would you?"
-- category: Fun & Hypothetical
-  question: "If you could have a superpower for one day, what would it be?"
 - category: Fun & Hypothetical
   question: "Name the top five people you'd invite to your dream dinner party."
 - category: Fun & Hypothetical
@@ -897,7 +886,7 @@
 - category: Deep & Philosophical
   question: "What gives you hope about relationships, even when they're challenging?"
 
-# Additional Relationship Questions
+# Relationship & Love
 - category: Relationship & Love
   question: "What's the kindest thing someone has done for you in a relationship?"
 - category: Relationship & Love
@@ -921,7 +910,7 @@
 - category: Relationship & Love
   question: "What's one thing about your life you'd never change for someone else?"
 
-# Additional Self & Growth
+# Self & Growth
 - category: Self & Growth
   question: "What's your relationship with your body?"
 - category: Self & Growth
@@ -943,7 +932,7 @@
 - category: Self & Growth
   question: "Are you easily distracted?"
 
-# Additional Values & Beliefs
+# Values & Beliefs
 - category: Values & Beliefs
   question: "What do you think technology's role should be in relationships?"
 - category: Values & Beliefs
@@ -957,7 +946,7 @@
 - category: Values & Beliefs
   question: "What do you think is more important: being right or being kind?"
 
-# Additional Future & Goals
+# Future & Goals
 - category: Future & Goals
   question: "What's one short-term goal you have right now?"
 - category: Future & Goals
@@ -971,7 +960,7 @@
 - category: Future & Goals
   question: "What's a mistake you made that changed you for the better?"
 
-# Additional Family
+# Family & Background
 - category: Family & Background
   question: "What did you want to be when you grew up as a kid?"
 - category: Family & Background
@@ -983,7 +972,7 @@
 - category: Family & Background
   question: "What's one childhood memory you cherish?"
 
-# Additional Past & Experiences
+# Past & Experiences
 - category: Past & Experiences
   question: "What's the worst dating experience you've ever had?"
 - category: Past & Experiences
@@ -999,7 +988,7 @@
 - category: Past & Experiences
   question: "What's a compliment you received that meant the most to you?"
 
-# Additional Emotions & Communication
+# Emotions & Communication
 - category: Emotions & Communication
   question: "What do you need from me right now?"
 - category: Emotions & Communication
@@ -1013,7 +1002,7 @@
 - category: Emotions & Communication
   question: "What makes you feel most at peace?"
 
-# Additional Lifestyle
+# Lifestyle & Daily Life
 - category: Lifestyle & Daily Life
   question: "What's your ideal timeline for major life events?"
 - category: Lifestyle & Daily Life
@@ -1033,7 +1022,7 @@
 - category: Lifestyle & Daily Life
   question: "What holiday is your favorite and why?"
 
-# Additional Fun & Hypothetical
+# Fun & Hypothetical
 - category: Fun & Hypothetical
   question: "What's a weird topic you know too much about?"
 - category: Fun & Hypothetical
@@ -1059,7 +1048,7 @@
 - category: Fun & Hypothetical
   question: "What's the quirkiest hobby you've ever tried?"
 
-# Additional Deep & Philosophical
+# Deep & Philosophical
 - category: Deep & Philosophical
   question: "What's a moment when someone made you feel truly understood?"
 - category: Deep & Philosophical
