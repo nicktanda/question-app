@@ -1,144 +1,418 @@
-# Third date questions - going deeper
-# Sources: PureWow, QuestionsAboutEverything, ForgettingFairytales, Sergovantseva
+# Fourth date questions - getting serious
+# Each question has a category for color coding
 
-# Relationship & Dating
-- What are you looking for at this stage of your life?
-- What's the biggest thing you've learned about relationships?
-- When it comes to a long-term relationship, what are your must-haves?
-- What are dealbreakers for you in a relationship?
-- How do you typically handle conflict with someone you care about?
-- What's your love language?
-- How do you like to show appreciation in a relationship?
-- How do you want a partner to show they appreciate you?
-- What does quality time mean to you?
-- Have you ever been in love, and what did it teach you?
-- What's your relationship history like?
-- How long have you been single?
-- Do you feel like you've fully healed from your last relationship?
-- What would you do differently in your last relationship?
-- What's the hardest lesson you've learned in your love life?
-- What's been the biggest turning point in your dating life?
-- How do you find dating these days?
-- What are the best and worst things about dating?
-- Are you still on dating apps or seeing other people?
-- Where do you see things heading between us?
-- What's surprised you most about me since we met?
-- What was your favorite part about our previous dates?
-- How important is intimacy to a healthy relationship?
-- Do you like public displays of affection?
-- What are your biggest fears about being in a relationship?
-- What small actions from a partner make you feel seen and valued?
-- How do you balance personal space with closeness?
+# Relationship & Love
+- category: Relationship & Love
+  question: What does a healthy relationship provide for the people in it?
+- category: Relationship & Love
+  question: What are your relationship non-negotiables or dealbreakers?
+- category: Relationship & Love
+  question: What's your love language?
+- category: Relationship & Love
+  question: When do you feel the most loved?
+- category: Relationship & Love
+  question: How do you show appreciation in a relationship?
+- category: Relationship & Love
+  question: What does love mean to you?
+- category: Relationship & Love
+  question: How do you handle conflict in relationships?
+- category: Relationship & Love
+  question: What's the biggest lesson you've learned from past relationships?
+- category: Relationship & Love
+  question: What makes you feel secure in a relationship?
+- category: Relationship & Love
+  question: How important is physical affection to you?
+- category: Relationship & Love
+  question: What's your biggest fear about relationships?
+- category: Relationship & Love
+  question: Do you think a relationship can recover from cheating?
+- category: Relationship & Love
+  question: How do you know when you're in love?
+- category: Relationship & Love
+  question: What does commitment mean to you?
+- category: Relationship & Love
+  question: How do you balance independence with togetherness?
+- category: Relationship & Love
+  question: What small gestures make you feel loved?
+- category: Relationship & Love
+  question: What's something you need in a partner that you won't compromise on?
+- category: Relationship & Love
+  question: How do you prefer to resolve disagreements?
+- category: Relationship & Love
+  question: What makes you feel closest to someone?
+- category: Relationship & Love
+  question: Do you believe in soulmates?
+- category: Relationship & Love
+  question: What's the most romantic thing someone has done for you?
+- category: Relationship & Love
+  question: How do you know when you can trust someone?
+- category: Relationship & Love
+  question: What role does vulnerability play in intimacy for you?
+- category: Relationship & Love
+  question: How important is it that your partner gets along with your friends?
 
 # Values & Beliefs
-- What are your core values?
-- Does religion or spirituality play a role in your life?
-- What do you feel strongly about in the world?
-- Do you believe in karma?
-- What do you think happens when we die?
-- Do you believe people who cheat deserve second chances?
-- What's a value you'd never compromise on?
-- How important is honesty, even when the conversation is difficult?
-- What causes or charities matter most to you?
+- category: Values & Beliefs
+  question: What are your core values?
+- category: Values & Beliefs
+  question: Do you believe everything happens for a reason?
+- category: Values & Beliefs
+  question: Is there anything you consider absolutely unforgivable?
+- category: Values & Beliefs
+  question: What role does faith or spirituality play in your life?
+- category: Values & Beliefs
+  question: What do you think is the meaning of life?
+- category: Values & Beliefs
+  question: Do you believe in karma?
+- category: Values & Beliefs
+  question: What social issue fires you up the most?
+- category: Values & Beliefs
+  question: What would you change about society if you could?
+- category: Values & Beliefs
+  question: What's a belief you held strongly that you've changed your mind about?
+- category: Values & Beliefs
+  question: What do you think happens after we die?
+- category: Values & Beliefs
+  question: How have your values evolved since you were a teenager?
+- category: Values & Beliefs
+  question: What causes or charities matter most to you?
+- category: Values & Beliefs
+  question: What's a value you'd never compromise on?
+- category: Values & Beliefs
+  question: Do you usually follow your head or your heart?
+- category: Values & Beliefs
+  question: What's your philosophy on honesty in relationships?
+- category: Values & Beliefs
+  question: What do you consider most beautiful in this world?
+- category: Values & Beliefs
+  question: What traditions are most important to you?
+- category: Values & Beliefs
+  question: How important is financial security to you?
+- category: Values & Beliefs
+  question: What's your view on work-life balance?
+
+# Future & Goals
+- category: Future & Goals
+  question: Where do you see yourself in five years?
+- category: Future & Goals
+  question: What are your top three priorities in life?
+- category: Future & Goals
+  question: How do you define success?
+- category: Future & Goals
+  question: What's on your bucket list?
+- category: Future & Goals
+  question: If money weren't a concern, what would you do with your life?
+- category: Future & Goals
+  question: What dream have you put on hold?
+- category: Future & Goals
+  question: What legacy do you want to leave behind?
+- category: Future & Goals
+  question: Do you want to have children someday?
+- category: Future & Goals
+  question: What does your ideal living situation look like?
+- category: Future & Goals
+  question: Where do you see yourself living long-term?
+- category: Future & Goals
+  question: What are your financial goals?
+- category: Future & Goals
+  question: What's the one thing you want to achieve before you die?
+- category: Future & Goals
+  question: How do you envision your retirement?
+- category: Future & Goals
+  question: What personal growth do you want to achieve?
+- category: Future & Goals
+  question: Do you want to get married someday?
+- category: Future & Goals
+  question: What does your ideal family life look like?
+- category: Future & Goals
+  question: Would you relocate for a relationship or career?
+- category: Future & Goals
+  question: What's something you're working toward right now?
+- category: Future & Goals
+  question: How ambitious would you say you are?
+- category: Future & Goals
+  question: What would you do if you won the lottery?
+- category: Future & Goals
+  question: Do you prefer stability or adventure in life?
+- category: Future & Goals
+  question: What does a successful relationship look like to you?
 
 # Family & Background
-- How close are you with your family?
-- Do you have a good relationship with your parents?
-- What have you learned about love from your parents' relationship?
-- Do you think your parents' relationship was a good model for you?
-- What would you do differently than your parents if you raised a child?
-- Do you want kids someday?
-- Do you want to get married at some point?
-- What does your ideal family life look like?
-- Who's the most special person in your life?
-- Who do you most look up to?
+- category: Family & Background
+  question: How close are you with your family?
+- category: Family & Background
+  question: What did you learn about love from your parents?
+- category: Family & Background
+  question: Was your parents' relationship a good model for you?
+- category: Family & Background
+  question: What would you do differently than your parents in raising kids?
+- category: Family & Background
+  question: Who in your family are you most similar to?
+- category: Family & Background
+  question: What's your favorite family tradition?
+- category: Family & Background
+  question: How did your upbringing shape who you are?
+- category: Family & Background
+  question: What's your relationship like with your siblings?
+- category: Family & Background
+  question: Who was your role model growing up?
+- category: Family & Background
+  question: What values did your family instill in you?
+- category: Family & Background
+  question: How do you handle family conflicts?
+- category: Family & Background
+  question: What does family mean to you?
+- category: Family & Background
+  question: How important is it that your partner connects with your family?
+- category: Family & Background
+  question: What family traditions would you want to continue?
+- category: Family & Background
+  question: How did your parents influence your views on relationships?
+- category: Family & Background
+  question: What's the most important lesson your family taught you?
 
-# Life & Lifestyle
-- What does a really good weekend look like for you?
-- What does a typical day look like for you?
-- How much free time do you tend to have?
-- Are you someone who likes to travel a lot?
-- Would you prefer to live in a city or the countryside?
-- Do you enjoy spending time alone?
-- How do you recharge after a long week?
-- Are you a morning person or a night owl?
-- Do you consider yourself introverted or extroverted?
-- What's your relationship with your phone and technology?
-- Do you like pets? Dogs or cats?
-- How do you feel about pets sleeping on the bed?
-- Are you a good cook? What's your signature dish?
-- What do you spend most of your money on?
-- Are you good with your finances?
-- Would you ever want to own your own business?
+# Self & Growth
+- category: Self & Growth
+  question: What's something you're working on changing about yourself?
+- category: Self & Growth
+  question: What's your biggest insecurity?
+- category: Self & Growth
+  question: How do you handle failure?
+- category: Self & Growth
+  question: What's the hardest lesson you've had to learn?
+- category: Self & Growth
+  question: What are you most proud of about yourself?
+- category: Self & Growth
+  question: How have you changed in the past five years?
+- category: Self & Growth
+  question: What habit do you most want to break?
+- category: Self & Growth
+  question: What skill are you currently trying to develop?
+- category: Self & Growth
+  question: What do you tell yourself when you make a mistake?
+- category: Self & Growth
+  question: How do you silence your inner critic?
+- category: Self & Growth
+  question: What's a compliment that changed how you see yourself?
+- category: Self & Growth
+  question: What's something you've forgiven yourself for?
+- category: Self & Growth
+  question: What toxic thought patterns do you struggle with?
+- category: Self & Growth
+  question: What childhood trauma have you had to process as an adult?
+- category: Self & Growth
+  question: What's the biggest sacrifice you've made that you don't regret?
+- category: Self & Growth
+  question: What quality or ability would you want to wake up with tomorrow?
+- category: Self & Growth
+  question: How do you practice self-care?
+- category: Self & Growth
+  question: What area of your life needs the most attention right now?
+- category: Self & Growth
+  question: What's something about yourself you hope never changes?
+- category: Self & Growth
+  question: Do you like yourself?
 
-# Dreams & Ambitions
-- Where do you see yourself in five years?
-- What personal growth do you want to achieve in the coming years?
-- What are you most ambitious about?
-- What's on your bucket list?
-- If you could be anywhere in the world right now, where would you be?
-- What's your dream vacation?
-- Is there anything you've always wanted to try but haven't yet?
-- What would you do if money were no object?
-- If you had two weeks to live, how would you spend them?
+# Past & Experiences
+- category: Past & Experiences
+  question: What's your most treasured memory?
+- category: Past & Experiences
+  question: What event most shaped who you are today?
+- category: Past & Experiences
+  question: What's a dark time in your life you've grown from?
+- category: Past & Experiences
+  question: What's the most daring thing you've ever done?
+- category: Past & Experiences
+  question: If you could relive one day of your life, which would it be?
+- category: Past & Experiences
+  question: What do you wish you could experience for the first time again?
+- category: Past & Experiences
+  question: What's the best advice you've ever received?
+- category: Past & Experiences
+  question: What's a defining moment in your life?
+- category: Past & Experiences
+  question: What challenge made you stronger?
+- category: Past & Experiences
+  question: What's your biggest regret?
+- category: Past & Experiences
+  question: What chapter of your life would you rewrite if you could?
+- category: Past & Experiences
+  question: What's the most beautiful thing you've ever seen?
+- category: Past & Experiences
+  question: What experience completely changed your perspective?
+- category: Past & Experiences
+  question: What's the best gift you've ever received?
+- category: Past & Experiences
+  question: What moment truly humbled you?
+- category: Past & Experiences
+  question: What phase of your life makes you cringe looking back?
+- category: Past & Experiences
+  question: What's a risk you took that paid off?
+- category: Past & Experiences
+  question: What were the major turning points in your life?
 
-# Self-Reflection & Growth
-- What's something you've changed your mind about in recent years?
-- What's something you're genuinely proud of that you don't talk about much?
-- How would your closest friends describe you?
-- Do you think the image you have of yourself matches how others see you?
-- What's the hardest lesson you've had to learn in life?
-- What's a mistake you made that taught you a lot?
-- What are you still working on about yourself?
-- How do you handle stress?
-- When do you feel most like yourself?
-- What keeps you awake at night?
-- What worries you most in life?
-- Have you ever struggled with your mental health?
-- When you have a problem, who do you talk to?
-- Do you find it easy to talk about your feelings?
-- What's one thing most people don't know about you?
+# Emotions & Communication
+- category: Emotions & Communication
+  question: How do you process difficult emotions?
+- category: Emotions & Communication
+  question: Do you reach out to others when you're struggling?
+- category: Emotions & Communication
+  question: What helps you deal with stress or anxiety?
+- category: Emotions & Communication
+  question: When do you feel most confident?
+- category: Emotions & Communication
+  question: What gives you a sense of belonging?
+- category: Emotions & Communication
+  question: What are you irrationally afraid of?
+- category: Emotions & Communication
+  question: What worries you most about the future?
+- category: Emotions & Communication
+  question: What gives you hope?
+- category: Emotions & Communication
+  question: Do you prefer to be alone or have company when upset?
+- category: Emotions & Communication
+  question: How do you express anger?
+- category: Emotions & Communication
+  question: Do you find it easy to apologize?
+- category: Emotions & Communication
+  question: How do you handle receiving criticism?
+- category: Emotions & Communication
+  question: What makes you feel understood?
+- category: Emotions & Communication
+  question: Do you ask for help when you need it?
+- category: Emotions & Communication
+  question: What's a conversation you've been avoiding?
+- category: Emotions & Communication
+  question: How do you show someone you care about them?
+- category: Emotions & Communication
+  question: What's the hardest thing for you to talk about?
+- category: Emotions & Communication
+  question: How do you rebuild trust after it's been broken?
+- category: Emotions & Communication
+  question: When was the last time you cried, and why?
+- category: Emotions & Communication
+  question: What emotion do you find hardest to express?
 
-# Past & Memories
-- What were you like as a kid?
-- What's your earliest happy memory?
-- What trip has impacted you the most?
-- What relationship or friendship has shaped you the most?
-- What's the most fun you've ever had?
-- What's the most unexpected thing that's ever happened to you?
-- What was your favorite book or movie growing up?
-- Is there anything you'd change about your childhood?
-- When and where do you feel most like yourself?
-- What's the best piece of advice you've ever received?
-- What's the nicest thing you've done for someone you care about?
-- What's the best compliment anyone's ever given you?
-- Is there anyone who changed your life but doesn't know it?
+# Lifestyle & Daily Life
+- category: Lifestyle & Daily Life
+  question: What does your ideal weekend look like?
+- category: Lifestyle & Daily Life
+  question: Are you a morning person or night owl?
+- category: Lifestyle & Daily Life
+  question: How do you recharge?
+- category: Lifestyle & Daily Life
+  question: What's your relationship with your phone?
+- category: Lifestyle & Daily Life
+  question: How important is fitness and health to you?
+- category: Lifestyle & Daily Life
+  question: Do you prefer staying in or going out?
+- category: Lifestyle & Daily Life
+  question: How do you like to spend your free time?
+- category: Lifestyle & Daily Life
+  question: What does your daily routine look like?
+- category: Lifestyle & Daily Life
+  question: How much alone time do you need?
+- category: Lifestyle & Daily Life
+  question: What's your stance on splitting household chores?
+- category: Lifestyle & Daily Life
+  question: How do you feel about pets?
+- category: Lifestyle & Daily Life
+  question: Do you prefer city or countryside living?
+- category: Lifestyle & Daily Life
+  question: How important is travel to you?
+- category: Lifestyle & Daily Life
+  question: What's your biggest pet peeve?
+- category: Lifestyle & Daily Life
+  question: Are you tidy or messy?
+- category: Lifestyle & Daily Life
+  question: How do you handle money day-to-day?
+- category: Lifestyle & Daily Life
+  question: What's your ideal living space?
+- category: Lifestyle & Daily Life
+  question: How social are you?
+- category: Lifestyle & Daily Life
+  question: What activities energize you? Drain you?
 
-# Fun & Quirky
-- What's your guiltiest pleasure?
-- What's a pleasure you're not guilty about at all?
-- What always makes you laugh?
-- Do you like dancing?
-- What's your favorite way to spend a lazy Sunday?
-- Would you rather plan everything or be spontaneous?
-- Do you celebrate anniversaries?
-- What's the most embarrassing thing that's happened to you on a date?
-- Have you ever been catfished?
-- Have you ever walked out on a date?
-- What social situations make you feel most awkward?
-- What tiny joys do you try to preserve even during tough times?
-- What's your favorite season and why?
-- Coffee or tea?
-- What's your go-to drink?
+# Fun & Hypothetical
+- category: Fun & Hypothetical
+  question: If you could have dinner with anyone, living or dead, who would it be?
+- category: Fun & Hypothetical
+  question: If you woke up tomorrow with no fear, what would you do first?
+- category: Fun & Hypothetical
+  question: If a crystal ball could tell you anything about your future, what would you ask?
+- category: Fun & Hypothetical
+  question: If you could master any skill overnight, what would you choose?
+- category: Fun & Hypothetical
+  question: If you could send a message to everyone in the world, what would it say?
+- category: Fun & Hypothetical
+  question: If your house was on fire and you could save one thing, what would it be?
+- category: Fun & Hypothetical
+  question: If you could change one thing about how you were raised, what would it be?
+- category: Fun & Hypothetical
+  question: If you could live in any era, which would you choose?
+- category: Fun & Hypothetical
+  question: If you wrote a memoir, what would you title it?
+- category: Fun & Hypothetical
+  question: If you could have any superpower, what would it be?
+- category: Fun & Hypothetical
+  question: If you had one year left to live, how would you spend it?
+- category: Fun & Hypothetical
+  question: If you could relive one year of your life, which would it be?
+- category: Fun & Hypothetical
+  question: If you could witness any historical event, what would it be?
+- category: Fun & Hypothetical
+  question: If you could ask your future self one question, what would it be?
+- category: Fun & Hypothetical
+  question: If you could eliminate one emotion forever, which would it be?
+- category: Fun & Hypothetical
+  question: If your life was a book, what would this chapter be called?
+- category: Fun & Hypothetical
+  question: If you could be fluent in any language, which would you choose?
+- category: Fun & Hypothetical
+  question: Would you rather be wealthy or wise?
+- category: Fun & Hypothetical
+  question: Would you choose to see the future if you could?
+- category: Fun & Hypothetical
+  question: What three wishes would you make?
 
-# Getting Deeper
-- What should I know about you that I'd never think to ask?
-- What do you think makes a relationship actually work long-term?
-- How do you know when you can trust someone?
-- What does it take for you to be vulnerable with someone?
-- How do you like to be supported when you're going through a hard time?
-- What does home feel like to you?
-- What traditions would you want to keep or start with a partner?
-- What does a healthy partnership look like in daily life?
-- What makes you feel safe in a relationship?
-- Do you believe people come into your life for a reason?
+# Deep & Philosophical
+- category: Deep & Philosophical
+  question: Do you think you have a purpose in life?
+- category: Deep & Philosophical
+  question: What do you think makes life meaningful?
+- category: Deep & Philosophical
+  question: Do people come into your life for a reason?
+- category: Deep & Philosophical
+  question: What's a truth you've been avoiding?
+- category: Deep & Philosophical
+  question: How do you want to be remembered?
+- category: Deep & Philosophical
+  question: What do you consider your biggest blessing in disguise?
+- category: Deep & Philosophical
+  question: Is there a question you've always wanted to ask me but haven't?
+- category: Deep & Philosophical
+  question: What keeps you up at night?
+- category: Deep & Philosophical
+  question: What's something you know you should do but keep putting off?
+- category: Deep & Philosophical
+  question: What question do you wish people would ask you more often?
+- category: Deep & Philosophical
+  question: What does happiness mean to you?
+- category: Deep & Philosophical
+  question: What do you think about most when you're alone?
+- category: Deep & Philosophical
+  question: What's your relationship with time?
+- category: Deep & Philosophical
+  question: What do you wish you understood better about yourself?
+- category: Deep & Philosophical
+  question: What's the most important conversation you've ever had?
+- category: Deep & Philosophical
+  question: What have you learned about yourself in the past year?
+- category: Deep & Philosophical
+  question: What scares you about getting older?
+- category: Deep & Philosophical
+  question: What excites you about getting older?
+- category: Deep & Philosophical
+  question: What's one thing about you that most people misunderstand?
+- category: Deep & Philosophical
+  question: What's the bravest thing you've ever done?

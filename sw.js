@@ -1,4 +1,4 @@
-const CACHE_NAME = 'question-shuffler-v1';
+const CACHE_NAME = 'question-shuffler-v2';
 const ASSETS = [
     './',
     './index.html',
